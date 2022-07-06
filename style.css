@@ -1,0 +1,16 @@
+h1,h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color : mintcream;
+}
+
+
+
+.nav-container {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
